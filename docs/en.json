@@ -2,11 +2,7 @@
   _id: 'Identity',
   _t: 'Time',
   _pid: 'Referral',
-
   checkemail:'An email has been sent to your email address, please check your emailbox or spam emails. ',
-
-
-
   all: 'All',
   big: 'The maximum upload file size is 20M.',
   oversize: 'The maximum upload file size is 20M.',
