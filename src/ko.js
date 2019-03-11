@@ -1,4 +1,4 @@
-TML.Say.Add('kr',{
+TML.Say.Add('ko',{
   all: '모두',
   big: 'The maximum upload file size is 20M.',
   username: '닉네임',
