@@ -80,9 +80,11 @@ TML.Say.Add('zh',{
   photo:'相片',
   photos:'相册',
   position:'位置',
+  point:'积分',
 
   read:'阅读',
   remark:'备注',
+  rule:'规则',
 
   save: '保存',
   server:'服务器',
