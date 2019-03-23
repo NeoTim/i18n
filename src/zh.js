@@ -5,6 +5,7 @@ TML.Say.Add('zh',{
 
   add: '添加',
   address:'地址',
+  award:'奖分',
   all: '全部',
   article: '文章',
   albums:'影集',
@@ -83,9 +84,8 @@ TML.Say.Add('zh',{
   normal:'普通',
   notice:'通知',
 
-
-
   password: '密码',
+  penalty:'扣分',
   please: '请',
   paradis: '天堂',
   prefix:'前缀',
@@ -102,6 +102,7 @@ TML.Say.Add('zh',{
   remark:'备注',
   rule:'规则',
   rank:'排名',
+  reward:'奖分',
 
   save: '保存',
   server:'服务器',
