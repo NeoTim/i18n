@@ -128,6 +128,7 @@ TML.Say.Add('zh',{
   test:'测试',
   term:'条款',
   treatment:'待遇',
+  time:'时间',
 
 
   user: '用户',
