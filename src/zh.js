@@ -11,6 +11,7 @@ TML.Say.Add('zh',{
   avator:'形象',
   age:'年龄',
   admin:'管理',
+  administrator:'管理员',
 
   back: '返回',
 
