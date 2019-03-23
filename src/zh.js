@@ -10,6 +10,7 @@ TML.Say.Add('zh',{
   albums:'影集',
   avator:'形象',
   age:'年龄',
+  admin:'管理',
 
   back: '返回',
 
@@ -70,6 +71,8 @@ TML.Say.Add('zh',{
   notification:'通知',
   name:'名称',
   nubmer:'号码',
+  normal:'普通',
+
 
 
   password: '密码',
@@ -91,10 +94,13 @@ TML.Say.Add('zh',{
   send:'发送',
   sex:'性别',
   setting: '设置',
+  staff:'员工',
+  submit:'提交',
   signup: '注册',
   signout: '注销',
   success:'成功',
   switch:'切换',
+  super:'超级',
   supplement:'补充',
   skill:'技能',
   sort:'排序',
