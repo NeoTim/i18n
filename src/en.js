@@ -6,7 +6,7 @@ TML.Say.Add('en',{
   checkemail:'An email has been sent to your email address, please check your emailbox or spam emails. ',
 
   curm:'Current month',
-  got:'',
+  got:' ',
 
 
 

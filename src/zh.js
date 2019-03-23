@@ -61,6 +61,7 @@ TML.Say.Add('zh',{
 
   gallery: '相册',
   game:'游戏',
+  got:'已',
 
   input: '录入',
   info:'信息',
@@ -106,6 +107,7 @@ TML.Say.Add('zh',{
 
   save: '保存',
   server:'服务器',
+  search:'搜索',
   send:'发送',
   sex:'性别',
   setting: '设置',
