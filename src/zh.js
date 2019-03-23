@@ -11,13 +11,14 @@ TML.Say.Add('zh',{
   announcement:'公告',
   avator:'形象',
   age:'年龄',
+  approved:'已通过',
   admin:'管理',
   administrator:'管理员',
 
   back: '返回',
-  detail:'详细',
 
   cancel: '取消',
+  curm:'本月',
   confirm: '确认',
   cellphone:'手机',
   center: '中心',
@@ -26,9 +27,11 @@ TML.Say.Add('zh',{
   cognate: '亲戚',
   content:'内容',
   censor:'审批',
+  censoring:'待审批',
   chat:'聊天',
   config:'配置',
   course:'课程',
+  credit:'积分',
   creat:'创建',
   category:'类别',
   checkemail:'一封邮件已发送到您邮箱，请查看邮箱或垃圾邮件。',
@@ -36,10 +39,12 @@ TML.Say.Add('zh',{
   database:'数据库',
   domain:'域',
   department:'部门',
-
+  detail:'详细',
+  decline:'未通过',
   delete: '删除',
 
   edit: '编辑',
+  event: '事件',
   expenses:'费用',
   enroll:'报名',
   employee:'员工',
@@ -51,11 +56,12 @@ TML.Say.Add('zh',{
 
   hello: '您好',
   homepage:'首页',
+  hall:'大厅',
 
   gallery: '相册',
   game:'游戏',
 
-  input: '输入',
+  input: '录入',
   info:'信息',
   icon:'图标',
   img:'图片',
@@ -89,10 +95,13 @@ TML.Say.Add('zh',{
   position:'位置',
   point:'积分',
   publish:'发布',
+  person:'人',
+  passed:'已通过',
 
   read:'阅读',
   remark:'备注',
   rule:'规则',
+  rank:'排名',
 
   save: '保存',
   server:'服务器',
@@ -109,16 +118,20 @@ TML.Say.Add('zh',{
   supplement:'补充',
   skill:'技能',
   sort:'排序',
+  score:'积分',
   table:'数据表',
   title:'标题',
+  task:'任务',
   test:'测试',
   term:'条款',
+  treatment:'待遇',
 
 
   user: '用户',
   university:'大学',
   video: '视频',
   wait:'等待',
+  welfare:'福利',
   your: '您的',
 
   big: '上传文件最大为20M',
