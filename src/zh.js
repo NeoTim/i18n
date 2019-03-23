@@ -8,12 +8,14 @@ TML.Say.Add('zh',{
   all: '全部',
   article: '文章',
   albums:'影集',
+  announcement:'公告',
   avator:'形象',
   age:'年龄',
   admin:'管理',
   administrator:'管理员',
 
   back: '返回',
+  detail:'详细',
 
   cancel: '取消',
   confirm: '确认',
@@ -73,6 +75,7 @@ TML.Say.Add('zh',{
   name:'名称',
   nubmer:'号码',
   normal:'普通',
+  notice:'通知',
 
 
 
@@ -85,6 +88,7 @@ TML.Say.Add('zh',{
   photos:'相册',
   position:'位置',
   point:'积分',
+  publish:'发布',
 
   read:'阅读',
   remark:'备注',
