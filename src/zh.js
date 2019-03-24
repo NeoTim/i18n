@@ -4,6 +4,7 @@ TML.Say.Add('zh',{
   _t: '时间',
 
   add: '添加',
+  apply: '申请',
   address:'地址',
   award:'奖分',
   all: '全部',
@@ -19,6 +20,7 @@ TML.Say.Add('zh',{
   back: '返回',
 
   cancel: '取消',
+  cell: '手机',
   curm:'本月',
   confirm: '确认',
   cellphone:'手机',
@@ -43,6 +45,7 @@ TML.Say.Add('zh',{
   detail:'详细',
   decline:'未通过',
   delete: '删除',
+  done: '完成',
 
   edit: '编辑',
   event: '事件',
@@ -76,6 +79,7 @@ TML.Say.Add('zh',{
   language:'语言',
   lectures:'演讲',
   manage: '管理',
+  memorial: '纪念',
   message:'消息',
   my: '我的',
   nickname: '昵称',
@@ -86,6 +90,7 @@ TML.Say.Add('zh',{
   notice:'通知',
 
   password: '密码',
+  path: '路径',
   penalty:'扣分',
   please: '请',
   paradis: '天堂',
