@@ -18,6 +18,7 @@ TML.Say.Add('zh',{
   administrator:'管理员',
 
   back: '返回',
+  birthday: '生日',
 
   cancel: '取消',
   cell: '手机',
