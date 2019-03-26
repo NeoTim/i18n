@@ -4,6 +4,7 @@ TML.Say.Add('zh',{
   _t: '时间',
 
   add: '添加',
+  activity:'动态',
   apply: '申请',
   address:'地址',
   award:'奖分',
@@ -92,6 +93,7 @@ TML.Say.Add('zh',{
   notice:'通知',
 
   onlyyou:'只能操作您自己添加的数据。',
+  owner:'拥有者',
 
   password: '密码',
   path: '路径',
