@@ -9,6 +9,9 @@ TML.Say.Add('en',{
   got:' ',
 
 
+  onlyyou:'You can only modify the data which you added.',
+
+
 
   all: 'All',
   big: 'The maximum upload file size is 20M.',
