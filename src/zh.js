@@ -16,6 +16,7 @@ TML.Say.Add('zh',{
   approved:'已通过',
   admin:'管理',
   administrator:'管理员',
+  about:'关于',
 
   back: '返回',
   birthday: '生日',
