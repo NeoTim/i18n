@@ -77,6 +77,7 @@ TML.Say.Add('zh',{
   invalid:'无效的',
 
   list: '列表',
+  loading: '加载',
   login:'登录',
   like:'赞',
   language:'语言',
