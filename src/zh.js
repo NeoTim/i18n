@@ -116,6 +116,7 @@ TML.Say.Add('zh',{
   rule:'规则',
   rank:'排名',
   reward:'奖分',
+  record:'记录',
 
   save: '保存',
   server:'服务器',
