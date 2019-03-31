@@ -110,6 +110,7 @@ TML.Say.Add('zh',{
   publish:'发布',
   person:'人',
   passed:'已通过',
+  params:'参数',
 
   read:'阅读',
   remark:'备注',
