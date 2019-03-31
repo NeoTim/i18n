@@ -92,6 +92,7 @@ TML.Say.Add('zh',{
   nubmer:'号码',
   normal:'普通',
   notice:'通知',
+  new:'新',
 
   onlyyou:'只能操作您自己添加的数据。',
   owner:'拥有者',
