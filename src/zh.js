@@ -111,6 +111,10 @@ TML.Say.Add('zh',{
   person:'人',
   passed:'已通过',
   params:'参数',
+  per:'每',
+  page:'页',
+  number:'数',
+  max:'最大',
 
   read:'阅读',
   remark:'备注',
@@ -145,6 +149,7 @@ TML.Say.Add('zh',{
   term:'条款',
   treatment:'待遇',
   time:'时间',
+  total:'总数',
 
 
   user: '用户',
@@ -266,5 +271,6 @@ TML.Say.Add('zh',{
   tml068: '悼念访客',
   tml069: '安葬',
   tml070: '籍贯',
-  tml071: '忌日'
+  tml071: '忌日',
+  tml072: '对象名需要加引号'
 });

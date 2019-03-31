@@ -123,6 +123,7 @@ TML.Say.Add('en',{
   tml068: 'Visitors ',
   tml069: 'Burial ',
   tml070: 'HomeTown ',
-  tml071: 'Death Day'
+  tml071: 'Death Day',
+  tml072: 'Object name needs to be quoted.'
   //  mail is already taken!
 });
