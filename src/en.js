@@ -125,6 +125,7 @@ TML.Say.Add('en',{
   tml070: 'HomeTown ',
   tml071: 'Death Day',
   tml072: 'Object name needs to be quoted.',
-  tml073:'Must starting with lowercase letter and only letters without numbers & symbols.'
+  tml073:' Must starting with lowercase letter and only letters without numbers & symbols.',
+  tml074:' has been blocked; Because HTTPS can not connect WS, must be available over WSS. '
   //  mail is already taken!
 });
