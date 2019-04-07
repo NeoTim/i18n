@@ -131,6 +131,7 @@ TML.Say.Add('zh',{
   search:'搜索',
   send:'发送',
   sex:'性别',
+  select: '选择',
 
   setting: '设置',
   set: '设置',
