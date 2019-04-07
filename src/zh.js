@@ -154,6 +154,7 @@ TML.Say.Add('zh',{
   time:'时间',
   timed:'超时',
   total:'总数',
+  todo:'待办',
 
 
   user: '用户',
