@@ -114,6 +114,8 @@ TML.Say.Add('zh',{
   person:'人',
   passed:'已通过',
   params:'参数',
+  present:'当前',
+  now:'现在',
   per:'每',
   page:'页',
   number:'数',
