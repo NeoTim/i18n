@@ -162,6 +162,7 @@ TML.Say.Add('zh',{
 
   user: '用户',
   university:'大学',
+  update:'更新',
   video: '视频',
   wait:'等待',
   welfare:'福利',
