@@ -78,6 +78,7 @@ TML.Say.Add('zh', {
   history: '历史',
   homepage: '首页',
   hall: '大厅',
+  high: '高',
 
   gallery: '相册',
   game: '游戏',
@@ -93,6 +94,7 @@ TML.Say.Add('zh', {
   immediately: '立刻',
 
   list: '列表',
+  low: '低',
   location: '位置',
   loading: '加载',
   login: '登录',
@@ -100,6 +102,7 @@ TML.Say.Add('zh', {
   language: '语言',
   lectures: '演讲',
   manage: '管理',
+  medium: '中',
   memorial: '纪念',
   message: '消息',
   my: '我的',
@@ -110,6 +113,7 @@ TML.Say.Add('zh', {
   nubmer: '号码',
   normal: '普通',
   notice: '通知',
+  none: '无',
   new: '新',
 
   onlyyou: '只能操作您自己添加的数据。',
