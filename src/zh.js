@@ -43,6 +43,7 @@ TML.Say.Add('zh', {
   course: '课程',
   credit: '积分',
   creat: '创建',
+  close: '关闭',
   create: '创建',
   clear: '清空',
   complete: '完成',
@@ -199,6 +200,7 @@ TML.Say.Add('zh', {
   wechat: '微信',
   watch: '手表',
   with: '用',
+  work: '工作',
   welfare: '福利',
   your: '您的',
 
