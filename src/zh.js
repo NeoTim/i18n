@@ -153,6 +153,7 @@ TML.Say.Add('zh', {
   rank: '排名',
   reward: '奖分',
   record: '记录',
+  received: '收到',
 
   save: '保存',
   server: '服务器',
