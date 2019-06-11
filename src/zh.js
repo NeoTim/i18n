@@ -117,7 +117,8 @@ TML.Say.Add('zh', {
   none: '无',
   new: '新',
 
-  onlyyou: '只能操作您自己添加的数据。',
+    onlyyou: '只能操作您自己添加的数据。',
+      onlyadmin: '只有管理员可以操作。',
   owner: '拥有者',
   optional: '可选',
 
