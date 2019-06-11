@@ -1,16 +1,16 @@
-TML.Say.Add('en',{
+TML.Say.Add('en', {
   _id: 'Identity',
   _t: 'Time',
   _pid: 'Referral',
 
-  checkemail:'An email has been sent to your email address, please check your emailbox or spam emails. ',
+  checkemail: 'An email has been sent to your email address, please check your emailbox or spam emails. ',
 
-  curm:'Current month',
-  got:' ',
+  curm: 'Current month',
+  got: ' ',
 
 
-  onlyyou:'You can only modify the data which you added.',
-    onlyadmin: 'Only administrator can do this opration.',
+  onlyyou: 'You can only modify the data which you added.',
+  onlyadmin: 'Only administrator can do this opration.',
 
 
 
@@ -126,7 +126,7 @@ TML.Say.Add('en',{
   tml070: 'HomeTown ',
   tml071: 'Death Day',
   tml072: 'Object name needs to be quoted.',
-  tml073:' Must starting with lowercase letter and only letters without numbers & symbols.',
-  tml074:' has been blocked; Because HTTPS can not connect WS, must be available over WSS. '
+  tml073: ' Must starting with lowercase letter and only letters without numbers & symbols.',
+  tml074: ' has been blocked; Because HTTPS can not connect WS, must be available over WSS. '
   //  mail is already taken!
 });
