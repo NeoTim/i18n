@@ -106,6 +106,7 @@ TML.Say.Add('zh', {
   nickname: '昵称',
   notification: '通知',
   name: '名称',
+  notify: '通知',
   nubmer: '号码',
   normal: '普通',
   notice: '通知',
