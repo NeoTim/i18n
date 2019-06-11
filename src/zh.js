@@ -18,6 +18,7 @@ TML.Say.Add('zh',{
   admin:'管理',
   administrator:'管理员',
   about:'关于',
+  attachment:'附件',
 
   back: '返回',
   birthday: '生日',
@@ -49,7 +50,9 @@ TML.Say.Add('zh',{
   detail:'详细',
   decline:'未通过',
   delete: '删除',
+  date: '日期',
   done: '完成',
+  deadline: '截止',
 
   edit: '编辑',
   event: '事件',
@@ -101,6 +104,7 @@ TML.Say.Add('zh',{
 
   password: '密码',
   path: '路径',
+  priority: '优先级',
   penalty:'扣分',
   please: '请',
   paradis: '天堂',
