@@ -45,6 +45,7 @@ TML.Say.Add('zh', {
   creat: '创建',
   create: '创建',
   clear: '清空',
+  complete: '完成',
   category: '类别',
   checkemail: '一封邮件已发送到您邮箱，请查看邮箱或垃圾邮件。',
   data: '数据',
