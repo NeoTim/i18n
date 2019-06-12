@@ -15,3 +15,7 @@ do
         echo "---Compress "$i
         uglifyjs $i --compress 'unsafe=true,unsafe_math=true' --mangle --output $i
 done
+
+
+
+sh ../git.sh
