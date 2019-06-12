@@ -73,6 +73,7 @@ TML.Say.Add('zh', {
   friend: '朋友',
   feedback: '反馈',
   file: '文件',
+  from: '从',
 
   hello: '您好',
   his: '他的',
