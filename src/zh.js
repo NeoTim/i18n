@@ -134,6 +134,7 @@ TML.Say.Add('zh', {
   paradis: '天堂',
   prefix: '前缀',
   profile: '资料',
+  picture: '图片',
   photo: '相片',
   photos: '相册',
   position: '位置',
