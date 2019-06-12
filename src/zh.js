@@ -59,6 +59,7 @@ TML.Say.Add('zh', {
   date: '日期',
   done: '完成',
   deadline: '截止',
+  display: '显示',
 
   end: '结束',
   edit: '编辑',
@@ -117,8 +118,8 @@ TML.Say.Add('zh', {
   none: '无',
   new: '新',
 
-  onlyyou: '只能操作您自己添加的数据。',
-  onlyadmin: '只有管理员可以操作。',
+  onlyyou: '只能操作您自己添加的数据',
+  onlyadmin: '只有管理员可以操作',
   owner: '拥有者',
   optional: '可选',
 

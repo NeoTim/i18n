@@ -9,8 +9,8 @@ TML.Say.Add('en', {
   got: ' ',
 
 
-  onlyyou: 'You can only modify the data which you added.',
-  onlyadmin: 'Only administrator can do this opration.',
+  onlyyou: 'You can only modify the data which you added',
+  onlyadmin: 'Only administrator can do this opration',
 
 
 
