@@ -199,6 +199,7 @@ TML.Say.Add('zh', {
   total: '总数',
   todo: '待办',
   tag: '标签',
+  trash: '回收站',
 
 
   user: '用户',
