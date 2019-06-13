@@ -108,6 +108,7 @@ TML.Say.Add('zh', {
   language: '语言',
   lectures: '演讲',
   manage: '管理',
+  more: '更多',
   medium: '中',
   memorial: '纪念',
   message: '消息',
