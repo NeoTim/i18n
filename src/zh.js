@@ -75,6 +75,7 @@ TML.Say.Add('zh', {
   feedback: '反馈',
   file: '文件',
   from: '从',
+  false: '否',
 
   hello: '您好',
   his: '他的',
@@ -182,12 +183,14 @@ TML.Say.Add('zh', {
   skill: '技能',
   sort: '排序',
   score: '积分',
+
   to: '到',
   taser: '高压电',
   table: '数据表',
   title: '标题',
   task: '任务',
   test: '测试',
+  true: '是',
   term: '条款',
   treatment: '待遇',
   time: '时间',
