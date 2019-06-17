@@ -4,6 +4,7 @@ TML.Say.Add('zh', {
   _t: '时间',
 
   at: '在',
+  alert: '提醒',
   and: '和',
   and: '和',
   add: '添加',
