@@ -3,6 +3,8 @@ TML.Say.Add('zh', {
   _pid: '推荐人',
   _t: '时间',
 
+  at: '在',
+  and: '和',
   and: '和',
   add: '添加',
   activity: '动态',
@@ -23,6 +25,7 @@ TML.Say.Add('zh', {
   attachment: '附件',
 
   back: '返回',
+  before: '之前',
   birthday: '生日',
 
   cancel: '取消',
@@ -83,6 +86,7 @@ TML.Say.Add('zh', {
   history: '历史',
   homepage: '首页',
   hall: '大厅',
+  hour: '小时',
   high: '高',
 
   gallery: '相册',
@@ -108,6 +112,7 @@ TML.Say.Add('zh', {
   language: '语言',
   lectures: '演讲',
   manage: '管理',
+  minute: '分钟',
   more: '更多',
   medium: '中',
   memorial: '纪念',
