@@ -223,6 +223,7 @@ TML.Say.Add('zh', {
   work: '工作',
   welfare: '福利',
   your: '您的',
+  yesterday: '昨日',
 
   big: '上传文件最大为20M',
   oversize: '上传文件最大为20M',
