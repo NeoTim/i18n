@@ -31,6 +31,7 @@ TML.Say.Add('zh', {
 
   cancel: '取消',
   connection: '连接',
+  cache: '连接',
   cell: '手机',
   curm: '本月',
   confirm: '确认',
