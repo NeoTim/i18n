@@ -81,6 +81,7 @@ TML.Say.Add('zh', {
   file: '文件',
   from: '从',
   false: '否',
+  function: '函数',
 
   hello: '您好',
   his: '他的',
