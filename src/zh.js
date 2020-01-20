@@ -192,6 +192,7 @@ TML.Say.Add('zh', {
   skill: '技能',
   sort: '排序',
   score: '积分',
+  system: '系统',
 
   to: '到',
   taser: '高压电',
