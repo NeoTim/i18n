@@ -170,6 +170,7 @@ TML.Say.Add('zh', {
   record: '记录',
   received: '收到',
   report: '报告',
+  run: '运行',
   row: '行',
 
   save: '保存',
