@@ -172,6 +172,7 @@ TML.Say.Add('zh', {
   report: '报告',
   run: '运行',
   row: '行',
+  result: '结果',
 
   save: '保存',
   server: '服务器',
